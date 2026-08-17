@@ -1,0 +1,225 @@
+{
+  "metadata": {
+    "kelas": "XII.10",
+    "jumlah_siswa": 36,
+    "updated": "2026-08-17T08:19:04.197Z"
+  },
+  "siswa": [
+    {
+      "id": 1786954549804,
+      "nama": "ALFADATIN NATASHA",
+      "nohp": "083896336752",
+      "kelas": "XII.10"
+    },
+    {
+      "id": 1786954549805,
+      "nama": "AULYA FAJRIANTI",
+      "nohp": "085374687175",
+      "kelas": "XII.10"
+    },
+    {
+      "id": 1786954549806,
+      "nama": "AYRA ANASTASYA SAHBANIA",
+      "nohp": "085833176092",
+      "kelas": "XII.10"
+    },
+    {
+      "id": 1786954549807,
+      "nama": "CAHAYA YULIANDA",
+      "nohp": "081268128526",
+      "kelas": "XII.10"
+    },
+    {
+      "id": 1786954549808,
+      "nama": "CHELSEA AULIA SAUZZAN",
+      "nohp": "081275786000",
+      "kelas": "XII.10"
+    },
+    {
+      "id": 1786954549809,
+      "nama": "DWI RAISYA MAHARANI",
+      "nohp": "085264603247",
+      "kelas": "XII.10"
+    },
+    {
+      "id": 1786954549810,
+      "nama": "FAIZAH YENI ALDIA PUTRI",
+      "nohp": "085263118245",
+      "kelas": "XII.10"
+    },
+    {
+      "id": 1786954549811,
+      "nama": "FIKRI ARIF AL FAIZ",
+      "nohp": "085319374279",
+      "kelas": "XII.10"
+    },
+    {
+      "id": 1786954549812,
+      "nama": "FIRSYA AMELIA",
+      "nohp": "089518249257",
+      "kelas": "XII.10"
+    },
+    {
+      "id": 1786954549813,
+      "nama": "IZZATUL AQILAH DARMA",
+      "nohp": "081363151728",
+      "kelas": "XII.10"
+    },
+    {
+      "id": 1786954549814,
+      "nama": "JIHAN ALFAHIRA",
+      "nohp": "083160429304",
+      "kelas": "XII.10"
+    },
+    {
+      "id": 1786954549815,
+      "nama": "KESYA NAJWA",
+      "nohp": "082259371985",
+      "kelas": "XII.10"
+    },
+    {
+      "id": 1786954549816,
+      "nama": "KEYSA AQIAH",
+      "nohp": "085394004030",
+      "kelas": "XII.10"
+    },
+    {
+      "id": 1786954549817,
+      "nama": "LINGGAN HARUL PENIHAN SIMANJUNTAK",
+      "nohp": "085263983972",
+      "kelas": "XII.10"
+    },
+    {
+      "id": 1786954549818,
+      "nama": "MIFTAHUL JANNAH",
+      "nohp": "082235599390",
+      "kelas": "XII.10"
+    },
+    {
+      "id": 1786954549819,
+      "nama": "MUHAMMAD AQIL FAJRI",
+      "nohp": "08126764065",
+      "kelas": "XII.10"
+    },
+    {
+      "id": 1786954549820,
+      "nama": "MUHAMMAD DANI SYAFRIZAL",
+      "nohp": "085374063101",
+      "kelas": "XII.10"
+    },
+    {
+      "id": 1786954549821,
+      "nama": "MUHAMMAD FAKHRI YUSUF",
+      "nohp": "081371129545",
+      "kelas": "XII.10"
+    },
+    {
+      "id": 1786954549822,
+      "nama": "MUHAMMAD HAFIZH AL GHIFARI",
+      "nohp": "082252157237",
+      "kelas": "XII.10"
+    },
+    {
+      "id": 1786954549823,
+      "nama": "MUHAMMAD RANGGA FIRMANSYAH",
+      "nohp": "081242563255",
+      "kelas": "XII.10"
+    },
+    {
+      "id": 1786954549824,
+      "nama": "MUHAMMAD RISKI",
+      "nohp": "081280441439",
+      "kelas": "XII.10"
+    },
+    {
+      "id": 1786954549825,
+      "nama": "MUHAMMAD SYAUQI ABDIANO",
+      "nohp": "081364462592",
+      "kelas": "XII.10"
+    },
+    {
+      "id": 1786954549826,
+      "nama": "NAZSYUWA CAHAYA AFRILLIA",
+      "nohp": "085356838627",
+      "kelas": "XII.10"
+    },
+    {
+      "id": 1786954549827,
+      "nama": "PUJA NASURI",
+      "nohp": "0881276644315",
+      "kelas": "XII.10"
+    },
+    {
+      "id": 1786954549828,
+      "nama": "RAHMA AZIZAH",
+      "nohp": "085265929739",
+      "kelas": "XII.10"
+    },
+    {
+      "id": 1786954549829,
+      "nama": "RAHMELYA VELI ALISA",
+      "nohp": "082287380353",
+      "kelas": "XII.10"
+    },
+    {
+      "id": 1786954549830,
+      "nama": "RAHYANA SEMA DEWI SUTRA",
+      "nohp": "085263863159",
+      "kelas": "XII.10"
+    },
+    {
+      "id": 1786954549831,
+      "nama": "RAUDHATUL ANUGERAH",
+      "nohp": "081276794252",
+      "kelas": "XII.10"
+    },
+    {
+      "id": 1786954549832,
+      "nama": "RINDU OLIVIA",
+      "nohp": "082391428858",
+      "kelas": "XII.10"
+    },
+    {
+      "id": 1786954549833,
+      "nama": "RISKY RAMADHAN",
+      "nohp": "083181829013",
+      "kelas": "XII.10"
+    },
+    {
+      "id": 1786954549834,
+      "nama": "RIZKI IZZATUL RAHMI",
+      "nohp": "081311209533",
+      "kelas": "XII.10"
+    },
+    {
+      "id": 1786954549835,
+      "nama": "SARAH ANJELY",
+      "nohp": "-",
+      "kelas": "XII.10"
+    },
+    {
+      "id": 1786954549836,
+      "nama": "SYAFITRI",
+      "nohp": "083186135058",
+      "kelas": "XII.10"
+    },
+    {
+      "id": 1786954549837,
+      "nama": "VIORA",
+      "nohp": "085254109903",
+      "kelas": "XII.10"
+    },
+    {
+      "id": 1786954549838,
+      "nama": "YANA MARFIN",
+      "nohp": "083169159915",
+      "kelas": "XII.10"
+    },
+    {
+      "id": 1786954549839,
+      "nama": "YUDHA AFIQIEDO HADI",
+      "nohp": "082285167295",
+      "kelas": "XII.10"
+    }
+  ]
+}
